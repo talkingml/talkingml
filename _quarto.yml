@@ -4,6 +4,7 @@ project:
 
 website:
   title: "TalkingML"
+  site-url: https://talkingml.github.io/talkingml/
   navbar:
     left:
       - href: index.qmd
